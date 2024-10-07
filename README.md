@@ -50,6 +50,8 @@ int main(void)
 
 ##OUTPUT
 
+
+
 ![Screenshot from 2024-09-19 13-59-57](https://github.com/user-attachments/assets/46d9d045-4151-4255-a90a-9a79e137f2f7)
 
 
@@ -83,6 +85,8 @@ int main() {
 
 
 ##OUTPUT
+
+
 
 ![Screenshot from 2024-09-19 13-59-46](https://github.com/user-attachments/assets/a3bae559-2efd-4f47-8ce0-15a7ea857a29)
 
@@ -121,6 +125,8 @@ int main() {
 ```
 
 ##OUTPUT
+
+
 ![Screenshot from 2024-09-19 13-59-27](https://github.com/user-attachments/assets/40977a16-183d-44fd-9b40-494bacbae400)
 
 # RESULT:
